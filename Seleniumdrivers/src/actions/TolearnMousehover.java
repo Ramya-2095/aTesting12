@@ -20,6 +20,7 @@ public class TolearnMousehover {
 		Actions act=new Actions(driver);
 		//act.moveToElement(features).perform();
 		act.moveByOffset(350, 102).perform();
+		act.moveByOffset(350, 102).perform();
 		
 
 	}
